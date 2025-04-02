@@ -45,7 +45,7 @@ but the Assistant is powered by OpenAI API and can read and write into the datab
 
 ### Screenshots
 - Assistant getting the data from the database
-  - [Assistant lists courses](/screens/courses.png](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/courses.png)
+  - [Assistant lists courses](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/courses.png)
   - [Assistant lists user's assignments]([/screens/assignments.png](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/assignments.png))
   - [Assistant answers user's question about a course](/screens/ask_about_courses.png)
 - Assistant adding new data:
