@@ -44,7 +44,7 @@ but the Assistant is powered by OpenAI API and can read and write into the datab
 (and just `php artisan serve` after to run after the first installation)
 
 ### Screenshots
-## Monta Screenshots
+#### Monta Screenshots
 - Assistant getting the data from the database
   - [Assistant lists courses](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/courses.png)
   - [Assistant lists user's assignments](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/assignments.png)
