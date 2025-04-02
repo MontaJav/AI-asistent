@@ -44,15 +44,16 @@ but the Assistant is powered by OpenAI API and can read and write into the datab
 (and just `php artisan serve` after to run after the first installation)
 
 ### Screenshots
+## Monta Screenshots
 - Assistant getting the data from the database
   - [Assistant lists courses](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/courses.png)
-  - [Assistant lists user's assignments]([/screens/assignments.png](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/assignments.png))
-  - [Assistant answers user's question about a course](/screens/ask_about_courses.png)
+  - [Assistant lists user's assignments](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/assignments.png)
+  - [Assistant answers user's question about a course](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/ask_about_courses.png)
 - Assistant adding new data:
-  - [Assistant lists user's schedule and adds new item on prompt](/screens/schedule.png)
-  - [User's schedule after adding a new item](/screens/altered_schedule_result.png)
+  - [Assistant lists user's schedule and adds new item on prompt](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/schedule.png)
+  - [User's schedule after adding a new item](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/altered_schedule_result.png)
 - Assistant offering a personalized study plan:
-  - [Assistant analizes user's deadlines](/screens/study_plan.png)
+  - [Assistant analizes user's deadlines](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/study_plan.png)
 
 ### Architecture
 [Diagram](/architecture.jpg)
