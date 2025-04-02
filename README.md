@@ -54,6 +54,16 @@ but the Assistant is powered by OpenAI API and can read and write into the datab
   - [User's schedule after adding a new item](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/altered_schedule_result.png)
 - Assistant offering a personalized study plan:
   - [Assistant analizes user's deadlines](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/study_plan.png)
+#### Amanda Screenshots
+- Assistant providing guidance
+  - [Assistant gives tips](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/tips.png)
+- Assistant sharing info about courses
+  - [Assistant calculates average grade](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/average_grade.png)
+  - [Assistant lists unapplied mandatory courses](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/courses_not_yet_applied.png)
+  - [Assistant providing information about required credit points](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/required_credit_points.png)
+- Creation of new schedule item
+  - [User creates new schedule item by their choice](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/new_schedule_item.png)
+  - [User has created new schedule item](https://github.com/MontaJav/AI-asistent/blob/main/AI_project/public/screens/schedule_item_calendar.png)
 
 ### Architecture
 [Diagram](/architecture.jpg)
